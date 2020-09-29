@@ -42,7 +42,7 @@ The in-meeting tab displays your app content using the following dimensions:
 1. **Dismiss**: Dismisses the tab. Always use the upper-right close icon instead of an action in the footer.
 1. **Webview**: Displays all third-party app content.
 
-## Behavior
+## Behaviors
 
 ### Scale
 

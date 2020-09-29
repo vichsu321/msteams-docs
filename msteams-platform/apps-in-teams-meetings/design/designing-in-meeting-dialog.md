@@ -47,7 +47,7 @@ In-meeting dialogs can vary in size to account for different use cases, but you 
 
 :::image type="content" source="../../assets/images/calls-and-meetings/in-meeting-dialog-sizing.png" alt-text="Illustration showing the possible dimensions of an in-meeting dialog. Height: The height of the dialog is determined by the content in the webview. Vertical scroll takes over for content that exceeds the maximum height (defined by you). Min: None. Max: 400 pixels (320 pixels webview). Width: The width of the webview is an absolute value within the range you specify. Min.: 288 pixels (256 pixels webview). Max: 468 pixels (436 pixels webview)." border="false":::
 
-## Behavior
+## Behaviors
 
 See general in-meeting dialog behavior, such as rest, loading, and more, in <a href="https://www.figma.com/community/file/888593778835180533" target="_blank">Figma</a>.
 
