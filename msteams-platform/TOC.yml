@@ -131,6 +131,42 @@
           href: concepts/authentication/authentication.md
         - name: 'Configure identity providers'
           href: concepts/authentication/configure-identity-provider.md
+- name: Design your app
+  items:
+  - name: Overview
+    href: concepts/design/design-teams-app-overview.md
+  - name: Design fundamentals
+    href: concepts/design/design-teams-app-fundamentals.md
+  - name: Basic UI components
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Personal apps
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Tabs
+    items: 
+    - name: Desktop and web
+      href: concepts/design/design-teams-app-basic-ui-components.md
+    - name: Mobile
+      href: tabs/design/tabs-mobile.md
+  - name: Bots
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Messaging extensions
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Meeting extensions
+    items:
+    - name: In-meeting dialog
+      href: apps-in-teams-meetings/design/designing-in-meeting-dialog.md
+    - name: In-meeting tab
+      href: apps-in-teams-meetings/design/designing-in-meeting-tab.md
+  - name: Adaptive Cards
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Task modules
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: UI templates
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Design toolkits and samples
+    href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Using the Teams UI library
+    href: concepts/design/design-teams-app-basic-ui-components.md
 - name: 'Tabs — embedded web experiences'
   items:
     - name: 'What are custom tabs?'
@@ -159,8 +195,6 @@
       items:
         - name: Design overview
           href: tabs/design/tabs.md
-        - name: Tabs on mobile
-          href: tabs/design/tabs-mobile.md
     - name: 'How-to guides'
       expanded: true
       items:
