@@ -11,6 +11,8 @@ Designing Teams apps is like designing conventional web apps—but also a little
 
 Use these guidelines to help you quickly make the right design decisions for your app.
 
+[INSERT CONCEPTUAL DESIGN HERO IMAGE]
+
 > [!NOTE]
 > Unless specified, these guidelines are primarily for the desktop or web version of Teams.
 

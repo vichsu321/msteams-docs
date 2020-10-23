@@ -1,7 +1,7 @@
 ---
 title: Design your app - Basic UI components
 author: heath-hamilton
-description: Learn about the primitive UI components commonly used to build Microsoft Teams app.
+description: Learn about the primitive UI components commonly used to build Microsoft Teams apps.
 ms.author: lajanuar
 ms.topic: reference
 ---
