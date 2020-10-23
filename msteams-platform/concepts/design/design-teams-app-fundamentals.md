@@ -3,13 +3,13 @@ title: Design your app - Understanding the fundamentals
 author: heath-hamilton
 description: Learn about the basics of designing your Microsoft Teams app, including layout, color scheme, and more.
 ms.author: lajanuar
-ms.topic: conceptual
+ms.topic: overview
 ---
-# Understanding the fundamentals of Microsoft Teams app design
+# Microsoft Teams app design fundamentals
 
-Quickly learn about the fundamentals of Teams app design. For more information, see the <a href="" target="_blank">Microsoft Teams UI Design Kit (Figma)</a>.
+Quickly learn about the fundamentals of Teams app design. For more information and examples, see the <a href="" target="_blank">Microsoft Teams UI Design Kit (Figma)</a>.
 
-## Layout (2 columns)
+## Layout
 
 :::row:::
 
@@ -24,14 +24,6 @@ Quickly learn about the fundamentals of Teams app design. For more information, 
       :::image type="content" source="../../assets/images/design-basics/teams-design-layout.png" alt-text="<alt text>" border="false":::
    :::column-end:::
 :::row-end:::
-
-## Layout (1 column)
-
-A 4-pixel base unit allows components to scale consistently across display sizes. In this example, the corner radius of the buttons also use 4 pixels.
-
-:::image type="content" source="../../assets/images/design-basics/teams-design-layout.png" alt-text="<alt text>" border="false":::
-
-<a href="https://www.figma.com/file/UwN095fVIvwZDNtzTtUE3E/?node-id=1%3A2" target="_blank">See more in the design kit (Figma)</a>
 
 ## Colors
 
@@ -60,3 +52,19 @@ For a consistent experience, apply Teams color principles and schemes to your ap
 
    :::column-end:::
 :::row-end:::
+
+## Iconography
+
+Some text and gfx
+
+## Typography
+
+Some text and gfx
+
+## Voice and tone
+
+Some text (gfx optional)
+
+## Branding
+
+Some text (gfx optional)

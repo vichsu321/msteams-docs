@@ -1,11 +1,11 @@
 ---
-title: Overview - Designing your app
+title: Introducing the app design guidelines
 author: heath-hamilton
-description: Introduction to the Microsoft Teams app design guidelines, which include best practices, UI kits, and other design resources.
+description: Learn about the Microsoft Teams app design guidelines, which include best practices, UI kits, and other design resources.
 ms.author: lajanuar
 ms.topic: conceptual
 ---
-# Designing your Microsoft Teams app
+# Design guidelines for your Microsoft Teams app
 
 Designing Teams apps is like designing conventional web apps—but also a little different.
 
