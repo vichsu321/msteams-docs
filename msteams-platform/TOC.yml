@@ -135,7 +135,7 @@
     href: bots/design/bots.md
   - name: Messaging extensions
     href: messaging-extensions/design/messaging-extension-design.md
-  - name: Meeting extensions
+  - name: Apps in meetings
     items:
     - name: In-meeting dialog
       href: apps-in-teams-meetings/design/designing-in-meeting-dialog.md

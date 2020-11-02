@@ -1,17 +1,17 @@
 ---
-title: Introducing the app design guidelines
+title: Introducing app design guidelines
 author: heath-hamilton
 description: Learn about the Microsoft Teams app design guidelines, which include best practices, UI kits, and other design resources.
 ms.author: lajanuar
 ms.topic: conceptual
 ---
-# Design guidelines for your Microsoft Teams app
+# Design guidelines for Microsoft Teams apps
 
-Designing Teams apps is like designing conventional web apps—but also a little different.
+Designing a Teams app is like designing a conventional web app—but also a little different.
 
 Use these guidelines to help you quickly make the right design decisions for your app.
 
-[INSERT CONCEPTUAL DESIGN HERO IMAGE]
+<!-- [INSERT CONCEPTUAL DESIGN HERO IMAGE]  -->
 
 > [!NOTE]
 > Unless specified, these guidelines are primarily for the desktop or web version of Teams.
@@ -22,15 +22,24 @@ You can't design a high-quality Teams app without a fundamental understanding of
 
 ## Design principles
 
-A well-designed Teams app has the following characteristics:
+A well-designed Teams app has the following characteristics.
+<!-- Update design principles once approved. -->
+### Promotes collaboration
 
-* Promotes collaboration
 * Focuses only on core activities and scenarios
 * Appears either native to Teams or completely distinct (not a blend of color schemes, styles, and controls)
 * Easy to use
 * Inclusive of all backgrounds and abilities
 * Accessible
 * Has a clear purpose (through expressive app icons and usable documentation)
+
+## Get started with the Microsoft Teams UI Design Kit
+
+The Microsoft Teams UI Design Kit helps you create high-fidelity mockups of your app without writing any code.
+<!-- Need link in Step 1. -->
+1. Duplicate the design kit from the Figma Community.
+1. Drag and drop components from the design kit to your file.
+1. Modify the components as needed for your app.
 
 ## Creating a cohesive look and feel
 
@@ -52,32 +61,16 @@ xxx
 
 xxx
 
-### Tabs
-
-Tabs are canvases for web-based content. Unlike a standard web app or website, they work best when displaying a limited set of content and tasks. [See tab design guidelines](../designing-your-app/designing-tabs.md)
-
-### Messaging extensions
-
-Messaging extensions are shortcuts for sharing content or taking action within a conversation (for example, creating a help desk ticket using the text in a chat reply). Either way, messaging extensions typically use content-rich cards that can include a search form, complex task, GIF, or simple links. [See messaging extension design guidelines](../designing-your-app/designing-messaging-extensions.md)
-
-## Meeting extensions
-
-Meeting extensions ...
-
-### Bots
-
-Bots are conversational interfaces that perform a narrow set of tasks proactively or in response to a message. [See bot design guidelines](../designing-your-app/designing-bots.md)
-
-### Webhooks and connectors
-
-Webhooks and connectors send notifications and alerts to team channels and chats (typically with cards). [See webhooks and connectors design guidelines](../designing-your-app/designing-connectors.md)
-
 ## UI templates
 
 In most cases, each capability in your Teams app needs a UI. Teams design components, based on the [Fluent UI Design System](https://fluentsite.z22.web.core.windows.net/), make your app feel familiar within the platform.
 
-## Resources
+## Designing Power Platform apps for Teams
 
-* Microsoft Teams UI Design Kit (NEED LINK)
-* [Adaptive Card designer](https://adaptivecards.io/designer)
+See the [Power Platform documentation](https://docs.microsoft.com/power-platform/) for low-code app design guidelines.
+
+## Resources
+<!-- Need link to Figma style guide. -->
+* [Microsoft Teams UI Design Kit](www.example.com)
 * [Fluent Design System](https://fluentsite.z22.web.core.windows.net/)
+* [Adaptive Card designer](https://adaptivecards.io/designer)
