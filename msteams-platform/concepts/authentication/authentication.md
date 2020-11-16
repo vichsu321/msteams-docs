@@ -21,6 +21,13 @@ You'll need to use the web-based authentication flow for [tabs](~/tabs/what-are-
 * [Silent authentication (Azure AD)](~/tabs/how-to/authentication/auth-silent-AAD.md) describes how to reduce sign-in/consent prompts in your app using Azure Active Directory.
 * Web-based authentication in [dotnet/C#](https://github.com/OfficeDev/microsoft-teams-sample-complete-csharp) or [JavaScript/Node.js](https://github.com/OfficeDev/microsoft-teams-sample-complete-node)
 
+## Using the web-based authentication flow with a conversational bot
+
+This [section](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/authentication#web-based-authentication-flow) states the following:
+
+* If you want to use the web-based authentication flow with a conversational bot, you'll need to use a task module with a bot.
+* Sigincard is not supported in Task Module
+
 ## The OAuthPrompt flow for conversational bots
 
 The Azure Bot Framework’s OAuthPrompt makes authentication easier for apps using conversational bots. You can take advantage of Azure Bot Framework's token service to assist with token caching as well.
